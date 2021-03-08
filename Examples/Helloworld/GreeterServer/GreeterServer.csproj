@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Greeter\Greeter.csproj" />
+    <ProjectReference Include="..\Patch\Patch.csproj" />
+  </ItemGroup>
+
+</Project>
