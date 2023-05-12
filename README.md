@@ -1,4 +1,4 @@
-# libra-csharp
+# libra-dotnet
 
 Libra SDK for .Net
 
